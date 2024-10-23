@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumHyoNamNeurHwaITing';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHyoNamNeurHwaITing/NanumHyoNamNeurHwaITing.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHyoNamNeurHwaITing/NanumHyoNamNeurHwaITing.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumHyoNamNeurHwaITing/NanumHyoNamNeurHwaITing.ttf') format('truetype');
+}
